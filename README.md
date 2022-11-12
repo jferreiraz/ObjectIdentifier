@@ -1,6 +1,13 @@
 # ObjectIdentifier
 
-<img src="https://user-images.githubusercontent.com/106937501/200659257-600c19da-6092-4aa7-8513-dc56c2492d76.png" width="540" height="362">
+<img src="https://user-images.githubusercontent.com/106937501/200659257-600c19da-6092-4aa7-8513-dc56c2492d76.png" width="540" height="362"><img src="https://user-images.githubusercontent.com/106937501/201489068-5293ff92-25a8-4303-983d-bc1f9c9a6621.png">
+
+
+### How to use:
+
+Make sure to upload the photo in the colab folder and change the name in the 'image' variable next to your image type (jpg or png). <br>
+Run all code cells from top to bottom.
+
 
 ### Project information:
 <h4>
