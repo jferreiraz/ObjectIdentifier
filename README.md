@@ -25,5 +25,8 @@ Application capable of detecting objects and beings throughout the image, identi
 The application was developed in the jupyter online development environment, based on the python language. Using the detector library.
 <br><br>
 
-Youtube video explaining the code in Brazilian portuguese (PT-BR):
-https://www.youtube.com/watch?v=IIXpHnbul0U&ab_channel=jferreiraz
+Youtube video explaining the code in Brazilian portuguese (PT-BR): ( _Click on the icon below_ )
+
+[<img align="left" alt="jferreiraz | Youtube" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174883.png" />][youtube]
+
+[youtube]: https://www.youtube.com/watch?v=IIXpHnbul0U&ab_channel=jferreiraz
